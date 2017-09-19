@@ -1,0 +1,5 @@
+# Ignorando los Modulos de backend
+node_modules
+#Ignorando los modulos de frontnend
+public/vendor
+npm-debug.log
